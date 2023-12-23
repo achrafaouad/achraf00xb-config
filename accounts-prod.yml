@@ -7,7 +7,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod 995 APIs "
+  message: "Welcome to EazyBank accounts related production 995 APIs "
   contactDetails:
     name: "{cipher}bbcc39dafb84f7436b6fcb943b56077364c9774a9739ae24312c67314bbdd69ef49a7bbc5b11e2f97856479b02c04abe"
     email: "{cipher}2e40633d0f651894d6a223b5d2a0729bb96a3f948847b7dd1fa8c86ed0d30ef035dbe076150da859f1b37e7c01659f38"
